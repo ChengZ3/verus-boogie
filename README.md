@@ -332,3 +332,4 @@ inspecting the artifact each stage produced.
 - Cheng Zhang, research engineer at Stanford University (chengz3@stanford.edu)
 - Cayden Codel, PhD student at Carnegie Mellon University (ccodel@andrew.cmu.edu)
 - James Gallicchio, PhD student at Carnegie Mellon University (jgallicc@andrew.cmu.edu)
+- Ishani Mukherjee, master's student at Stanford University (ishanim@stanford.edu)
